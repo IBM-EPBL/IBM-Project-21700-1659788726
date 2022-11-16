@@ -15,7 +15,7 @@
 | Team Member 2 | **Charan**|
 | Team Member 3 | **Cheralathan**|
 
-## Tech Stack used:
+## Tech Stack:
  ![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)   ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/css3.png) ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/javascript.png) ![Tux, the Linux mascot]( https://img.icons8.com/color/48/000000/kubernetes.png) ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/docker.png)  ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/python.png)  ![Tux, the Linux mascot]( https://img.icons8.com/ios-filled/50/000000/flask.png) ![Tux, the Linux mascot](https://img.icons8.com/nolan/64/ibm.png)
 
     HTML, CSS, Java Script, IBM Cloud Object Storage, Python-Flask, Kubernetes, Docker, IBM DB2, IBM Container Registry
