@@ -7,7 +7,7 @@
 |         **Domain**        |  Cloud Application Development |
 |        **Team ID**        |  PNT2022TMID19786 |
 
-## Team Members:
+## Team Details:
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
 | Team Leader   | **Aru Maakadalamudhan**|
@@ -21,7 +21,7 @@
     HTML, CSS, Java Script, Kubernetes, Docker, IBM Cloud Object Storage, IBM DB2, Python-Flask, IBM Container Registry
 
 ## Project Description:
-To develop an end-to-end web application capable of displaying the current job openings based on the user skillset.  The user and their information are stored in the Database.  An alert is sent when there is an opening based on the user skillset. Users will interact with the chatbot and can get the recommendations based on their skills. We can use a job search API to get the current job openings in the market which will fetch the data directly from the webpage.
+To develop an end-to-end web application capable of displaying the current job openings based on the user skill set.  The user and their information are stored in the Database.  An alert is sent when there is an opening based on the user skill set. Users will interact with the chatbot and can get the recommendations based on their skills. We can use a job search API to get the current job openings in the market which will fetch the data directly from the webpage.
 
 ## Technical Architecture:
 ![Technical architecture diagram](https://lh3.googleusercontent.com/1OWTBsvpOXh0YVOalvRAGG8uDOBJea7NpyXg5hSSHb61IRRFHTY8txceIQfcIsc9b9coajOEraPoPIAVr5SOr0WFF0iQKVHnHOXk-wAn6XwNjuZFSsdGwreGV7Y10Q)
