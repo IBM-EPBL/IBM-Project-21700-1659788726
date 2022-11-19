@@ -5,7 +5,7 @@
 ## Tech Stack used:
 
 - Frontend : **React**
-- Backend : **Flask**
+- Backend  : **Flask**
 - Database : **IBM_DB2**
 
 ## Progress:
